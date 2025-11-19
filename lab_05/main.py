@@ -20,7 +20,7 @@ def argumentek1(*argument):
             return myPow2(x, n)
 
         else: return myPow2(x, n, m[0])
-    print(f'myPow3(2, 10)')
+    print(f'myPow3(2, 10`)')
     print(f'myPow3(2, 10, 7)')
 
     def myPowConstTime(x, n, m):
